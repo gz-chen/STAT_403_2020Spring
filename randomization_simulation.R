@@ -1,3 +1,9 @@
+#### This demo uses simulation to estimate the p-value of
+#### randomization test in the fertilizer example given by 
+#### Prof. Tang in class. Note that a true value of 0.075 can
+#### be obtained either by listing all 20 possibilities 
+#### (see w3/4 tutorial notes), or by inspection.
+
 set.seed(100) 
 # set random seed so that the results are reproducible
 
